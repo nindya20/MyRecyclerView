@@ -22,7 +22,7 @@ Tampilan grid mode menampilkan menu dalam bentuk foto/grid dengan menggunakan li
 
 ![WhatsApp Image 2020-09-25 at 16 36 46](https://user-images.githubusercontent.com/60589822/94253876-22879980-ff50-11ea-804e-b8257944b974.jpeg)
 
-# Tampilan CardVew Mode
+# Tampilan CardView Mode
 Mode Cardview berisi gambar, informasi, button share, dan button favorite
 
 ![WhatsApp Image 2020-09-25 at 16 36 51](https://user-images.githubusercontent.com/60589822/94253872-21ef0300-ff50-11ea-9076-91aa1c8c593a.jpeg)
