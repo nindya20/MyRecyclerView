@@ -18,8 +18,27 @@ RecyclerView adalah sebuah komponen tampilan (widget) yang lebih canggih ketimba
 ![WhatsApp Image 2020-09-25 at 16 36 39](https://user-images.githubusercontent.com/60589822/94253856-1dc2e580-ff50-11ea-80a0-009488b70448.jpeg)
 
 # Tampilan Grid Mode
-Tampilan grid mode menampilkan menu dalam bentuk foto/grid.
+Tampilan grid mode menampilkan menu dalam bentuk foto/grid dengan menggunakan linear layout
 
-![WhatsApp Image 2020-09-20 at 08 11 00](https://user-images.githubusercontent.com/60589822/93692100-02ec0d80-fb19-11ea-9f8d-1523748a2bbe.jpeg)
+![WhatsApp Image 2020-09-25 at 16 36 46](https://user-images.githubusercontent.com/60589822/94253876-22879980-ff50-11ea-804e-b8257944b974.jpeg)
+
+# Tampilan CardVew Mode
+Mode Cardview berisi gambar, informasi, button share, dan button favorite
+
+![WhatsApp Image 2020-09-25 at 16 36 51](https://user-images.githubusercontent.com/60589822/94253872-21ef0300-ff50-11ea-9076-91aa1c8c593a.jpeg)
 
 # Tampilan Menu
+Fitur ini digunakan untuk beralih mode, mode list, mode grid dan mode card view.
+
+![WhatsApp Image 2020-09-25 at 16 37 07](https://user-images.githubusercontent.com/60589822/94253870-21566c80-ff50-11ea-93e1-ab6010ae466a.jpeg)
+
+# Toast
+Toast ini berfungsi untuk menampilkan notifikasi berupa teks. Seperti contoh contoh berikut ini:
+
+![WhatsApp Image 2020-09-25 at 16 37 29](https://user-images.githubusercontent.com/60589822/94253860-1ef41280-ff50-11ea-953b-2e6244d04fd1.jpeg)
+
+![WhatsApp Image 2020-09-25 at 16 37 25](https://user-images.githubusercontent.com/60589822/94253864-1f8ca900-ff50-11ea-8522-52fae2de7628.jpeg)
+
+![WhatsApp Image 2020-09-25 at 16 37 18](https://user-images.githubusercontent.com/60589822/94253867-20253f80-ff50-11ea-8371-338c7747e7c4.jpeg)
+
+![WhatsApp Image 2020-09-25 at 16 37 13](https://user-images.githubusercontent.com/60589822/94253869-20bdd600-ff50-11ea-8d7c-b66d9dedf29d.jpeg)
